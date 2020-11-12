@@ -1,0 +1,86 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200818090410_1.cs" />
+    <Compile Remove="Migrations\20200818090410_1.Designer.cs" />
+    <Compile Remove="Migrations\20200828115719_2.cs" />
+    <Compile Remove="Migrations\20200828115719_2.Designer.cs" />
+    <Compile Remove="Migrations\20200828121317_1.cs" />
+    <Compile Remove="Migrations\20200828121317_1.Designer.cs" />
+    <Compile Remove="Migrations\20200828123346_1.cs" />
+    <Compile Remove="Migrations\20200828123346_1.Designer.cs" />
+    <Compile Remove="Migrations\20200828125351_1.cs" />
+    <Compile Remove="Migrations\20200828125351_1.Designer.cs" />
+    <Compile Remove="Migrations\20200828130125_1.cs" />
+    <Compile Remove="Migrations\20200828130125_1.Designer.cs" />
+    <Compile Remove="Migrations\20200901115634_1.cs" />
+    <Compile Remove="Migrations\20200901115634_1.Designer.cs" />
+    <Compile Remove="Migrations\20200901120207_1.cs" />
+    <Compile Remove="Migrations\20200901120207_1.Designer.cs" />
+    <Compile Remove="Migrations\20200901120848_1.cs" />
+    <Compile Remove="Migrations\20200901120848_1.Designer.cs" />
+    <Compile Remove="Migrations\20200901121122_1.cs" />
+    <Compile Remove="Migrations\20200901121122_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903121613_1.cs" />
+    <Compile Remove="Migrations\20200903121613_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903122459_1.cs" />
+    <Compile Remove="Migrations\20200903122459_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903130111_1.cs" />
+    <Compile Remove="Migrations\20200903130111_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903150707_2.cs" />
+    <Compile Remove="Migrations\20200903150707_2.Designer.cs" />
+    <Compile Remove="Migrations\20200903204219_1.cs" />
+    <Compile Remove="Migrations\20200903204219_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903204326_1.cs" />
+    <Compile Remove="Migrations\20200903204326_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903204810_1.cs" />
+    <Compile Remove="Migrations\20200903204810_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903205530_1.cs" />
+    <Compile Remove="Migrations\20200903205530_1.Designer.cs" />
+    <Compile Remove="Migrations\20200903210003_1.cs" />
+    <Compile Remove="Migrations\20200903210003_1.Designer.cs" />
+    <Compile Remove="Migrations\20200904073125_1.cs" />
+    <Compile Remove="Migrations\20200904073125_1.Designer.cs" />
+    <Compile Remove="Migrations\20200904073427_1.cs" />
+    <Compile Remove="Migrations\20200904073427_1.Designer.cs" />
+    <Compile Remove="Migrations\20200904074123_2.cs" />
+    <Compile Remove="Migrations\20200904074123_2.Designer.cs" />
+    <Compile Remove="Migrations\20200904093721_3.cs" />
+    <Compile Remove="Migrations\20200904093721_3.Designer.cs" />
+    <Compile Remove="Migrations\20200904102147_4.cs" />
+    <Compile Remove="Migrations\20200904102147_4.Designer.cs" />
+    <Compile Remove="Migrations\20200904102319_5.cs" />
+    <Compile Remove="Migrations\20200904102319_5.Designer.cs" />
+    <Compile Remove="Migrations\20200904102932_6.cs" />
+    <Compile Remove="Migrations\20200904102932_6.Designer.cs" />
+    <Compile Remove="Migrations\20200904103536_7.cs" />
+    <Compile Remove="Migrations\20200904103536_7.Designer.cs" />
+    <Compile Remove="Migrations\20200904104314_1.cs" />
+    <Compile Remove="Migrations\20200904104314_1.Designer.cs" />
+    <Compile Remove="Migrations\20200904104818_2.cs" />
+    <Compile Remove="Migrations\20200904104818_2.Designer.cs" />
+    <Compile Remove="Migrations\20200904105003_2.cs" />
+    <Compile Remove="Migrations\20200904105003_2.Designer.cs" />
+    <Compile Remove="Migrations\20200904105032_2.cs" />
+    <Compile Remove="Migrations\20200904105032_2.Designer.cs" />
+    <Compile Remove="Migrations\20200904110746_3.cs" />
+    <Compile Remove="Migrations\20200904110746_3.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+    <PackageReference Include="System.Text.Json" Version="4.7.2" />
+  </ItemGroup>
+
+</Project>

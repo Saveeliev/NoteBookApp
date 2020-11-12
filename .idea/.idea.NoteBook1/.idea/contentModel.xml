@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Church\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Church\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NoteBook1.-770580694.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Church\source\repos\NoteBook1" t="IncludeFlat">
+      <e p="DataBase" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context.cs" t="Include" />
+        <e p="DataBase.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200818090410_1.cs" t="Include" />
+          <e p="20200818090410_1.Designer.cs" t="Include" />
+          <e p="ContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="FavoriteDb.cs" t="Include" />
+          <e p="LikeDb.cs" t="Include" />
+          <e p="NoteDb.cs" t="Include" />
+          <e p="UserDb.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="DataBase.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="DTO" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DTO.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="DTO.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Responses" t="Include">
+          <e p="Result.cs" t="Include" />
+        </e>
+        <e p="User" t="Include">
+          <e p="ActiveUser.cs" t="Include" />
+          <e p="LoginRequest.cs" t="Include" />
+          <e p="RegisterRequest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataProvider" t="Include">
+          <e p="DataProvider.cs" t="Include" />
+          <e p="IDataProvider.cs" t="Include" />
+        </e>
+        <e p="Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="IUserService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NoteBook1" t="IncludeRecursive">
+        <e p="activeUser.json" t="Include" />
+        <e p="AddNoteForm.cs" t="Include" />
+        <e p="AddNoteForm.Designer.cs" t="Include" />
+        <e p="AddNoteForm.resx" t="Include" />
+        <e p="appsettingss.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LoginControl.cs" t="Include" />
+        <e p="LoginControl.Designer.cs" t="Include" />
+        <e p="LoginControl.resx" t="Include" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="NoteBook1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="NoteBook1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="RegisterControl.cs" t="Include" />
+        <e p="RegisterControl.Designer.cs" t="Include" />
+        <e p="RegisterControl.resx" t="Include" />
+        <e p="UserInterfaceControl.cs" t="Include" />
+        <e p="UserInterfaceControl.Designer.cs" t="Include" />
+        <e p="UserInterfaceControl.resx" t="Include" />
+      </e>
+      <e p="NoteBook1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
